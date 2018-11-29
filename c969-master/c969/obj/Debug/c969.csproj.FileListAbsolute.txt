@@ -1,0 +1,67 @@
+c:/users/sinjin.cooper/c969/c969/bin/Debug/c969.exe.config
+C:/Users/sinjin.cooper/c969/c969/bin/Debug/c969.exe
+C:/Users/sinjin.cooper/c969/c969/bin/Debug/c969.pdb
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.csprojResolveAssemblyReference.cache
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.AddCustomer.resources
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.LoginForm.resources
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.Properties.Resources.resources
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.UpdateCustomer.resources
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.csproj.GenerateResource.Cache
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.exe
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.pdb
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.MainForm.resources
+C:/Users/sinjin.cooper/c969/c969/bin/Debug/MySql.Data.dll
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.View.CustomersForm.resources
+C:/Users/sinjin.cooper/c969/c969/obj/Debug/c969.View.ReportsForm.resources
+/Users/sinjincooper/Downloads/c969 2/c969/bin/Debug/c969.exe.config
+/Users/sinjincooper/Downloads/c969 2/c969/bin/Debug/c969.exe
+/Users/sinjincooper/Downloads/c969 2/c969/bin/Debug/c969.pdb
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.csprojAssemblyReference.cache
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.exe.config
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.AddCustomer.resources
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.View.CustomersForm.resources
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.LoginForm.resources
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.MainForm.resources
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.Properties.Resources.resources
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.View.ReportsForm.resources
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.UpdateCustomer.resources
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.csproj.GenerateResource.cache
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.csproj.CoreCompileInputs.cache
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.csproj.CopyComplete
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.exe
+/Users/sinjincooper/Downloads/c969 2/c969/obj/Debug/c969.pdb
+/Users/sinjincooper/projects/c969/c969/bin/Debug/c969.exe.config
+/Users/sinjincooper/projects/c969/c969/bin/Debug/c969.exe
+/Users/sinjincooper/projects/c969/c969/bin/Debug/c969.pdb
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.csprojAssemblyReference.cache
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.exe.config
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.AddCustomer.resources
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.View.CustomersForm.resources
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.LoginForm.resources
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.MainForm.resources
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.Properties.Resources.resources
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.View.ReportsForm.resources
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.UpdateCustomer.resources
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.csproj.GenerateResource.cache
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.csproj.CoreCompileInputs.cache
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.csproj.CopyComplete
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.exe
+/Users/sinjincooper/projects/c969/c969/obj/Debug/c969.pdb
+C:\Users\Mark\Documents\c969-master\c969\bin\Debug\c969.exe.config
+C:\Users\Mark\Documents\c969-master\c969\bin\Debug\c969.exe
+C:\Users\Mark\Documents\c969-master\c969\bin\Debug\c969.pdb
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.csprojAssemblyReference.cache
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.View.AddAppointment.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.AddCustomer.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.View.CustomersForm.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.View.EditAppointment.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.LoginForm.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.MainForm.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.Properties.Resources.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.View.ReportsForm.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.UpdateCustomer.resources
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.csproj.GenerateResource.cache
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.csproj.CopyComplete
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.exe
+C:\Users\Mark\Documents\c969-master\c969\obj\Debug\c969.pdb
